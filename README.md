@@ -265,3 +265,4 @@ Client runs on http://localhost:5173
 - [2026-07-13 02:27:44] Improve performance
 - [2025-12-21 02:27:44] Fix bugs and issues
 - [2026-02-10 02:27:44] Improve accessibility
+- [2025-08-12 02:27:44] Add unit tests
