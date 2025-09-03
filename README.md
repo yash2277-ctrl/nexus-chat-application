@@ -158,3 +158,4 @@ Client runs on http://localhost:5173
 - [2026-04-28 02:27:44] Add unit tests
 - [2025-12-30 02:27:44] Clean up code
 - [2025-10-21 02:27:44] Update configuration
+- [2025-09-04 02:27:44] Add API endpoints
