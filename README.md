@@ -131,3 +131,4 @@ Client runs on http://localhost:5173
 - [2026-01-28 02:27:44] Improve logging
 - [2026-04-12 02:27:44] Improve logging
 - [2026-03-19 02:27:44] Add unit tests
+- [2025-11-16 02:27:44] Optimize queries
