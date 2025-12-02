@@ -103,3 +103,8 @@ Client runs on http://localhost:5173
 - **2026-07-31**: Update documentation
 
 - **2026-08-04**: Update documentation
+
+
+## Commit Log
+
+- [2025-12-03 02:27:44] Improve accessibility
