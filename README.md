@@ -284,3 +284,4 @@ Client runs on http://localhost:5173
 - [2026-05-29 02:27:44] Improve performance
 - [2025-08-28 02:27:44] Add unit tests
 - [2025-12-08 02:27:44] Add API endpoints
+- [2025-12-04 02:27:44] Improve accessibility
