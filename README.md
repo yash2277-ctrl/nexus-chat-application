@@ -232,3 +232,4 @@ Client runs on http://localhost:5173
 - [2026-06-20 02:27:44] Add validation
 - [2026-02-06 02:27:44] Clean up code
 - [2026-05-31 02:27:44] Update README
+- [2026-01-06 02:27:44] Improve accessibility
