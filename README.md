@@ -138,3 +138,4 @@ Client runs on http://localhost:5173
 - [2026-03-09 02:27:44] Improve UI/UX
 - [2026-03-05 02:27:44] Update README
 - [2025-10-01 02:27:44] Optimize queries
+- [2026-03-20 02:27:44] Add validation
