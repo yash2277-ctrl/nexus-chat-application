@@ -239,3 +239,4 @@ Client runs on http://localhost:5173
 - [2025-11-18 02:27:44] Optimize queries
 - [2026-01-29 02:27:44] Clean up code
 - [2026-03-04 02:27:44] Improve accessibility
+- [2026-03-26 02:27:44] Improve UI/UX
