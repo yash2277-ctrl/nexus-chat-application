@@ -257,3 +257,4 @@ Client runs on http://localhost:5173
 - [2025-11-12 02:27:44] Add comments
 - [2025-11-17 02:27:44] Clean up code
 - [2025-08-19 02:27:44] Refactor code structure
+- [2026-04-02 02:27:44] Add unit tests
