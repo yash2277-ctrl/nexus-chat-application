@@ -207,3 +207,4 @@ Client runs on http://localhost:5173
 - [2026-04-24 02:27:44] Update dependencies
 - [2025-12-11 02:27:44] Update configuration
 - [2025-10-10 02:27:44] Update README
+- [2026-04-04 02:27:44] Enhance security
