@@ -143,3 +143,4 @@ Client runs on http://localhost:5173
 - [2026-04-21 02:27:44] Update README
 - [2025-10-05 02:27:44] Clean up code
 - [2025-08-26 02:27:44] Refactor code structure
+- [2026-04-17 02:27:44] Improve error handling
