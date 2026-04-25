@@ -109,3 +109,4 @@ Client runs on http://localhost:5173
 
 - [2025-12-03 02:27:44] Improve accessibility
 - [2026-04-02 02:27:44] Update README
+- [2026-04-26 02:27:44] Update README
