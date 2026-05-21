@@ -113,3 +113,4 @@ Client runs on http://localhost:5173
 - [2025-11-11 02:27:44] Improve performance
 - [2025-12-31 02:27:44] Improve UI/UX
 - [2025-09-17 02:27:44] Add validation
+- [2026-05-22 02:27:44] Enhance security
