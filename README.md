@@ -117,3 +117,4 @@ Client runs on http://localhost:5173
 - [2025-09-24 02:27:44] Clean up code
 - [2026-08-03 02:27:44] Improve accessibility
 - [2026-05-18 02:27:44] Update dependencies
+- [2026-05-28 02:27:44] Fix bugs and issues
