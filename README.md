@@ -91,3 +91,5 @@ Client runs on http://localhost:5173
 - **2026-06-13**: Refactor code
 
 - **2026-06-22**: Improve error handling
+
+- **2026-06-22**: Improve performance
