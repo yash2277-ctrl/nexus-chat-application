@@ -93,3 +93,5 @@ Client runs on http://localhost:5173
 - **2026-06-22**: Improve error handling
 
 - **2026-06-22**: Improve performance
+
+- **2026-07-05**: Update README
