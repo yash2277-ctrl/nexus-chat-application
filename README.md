@@ -174,3 +174,4 @@ Client runs on http://localhost:5173
 - [2026-05-14 02:27:44] Improve error handling
 - [2026-06-27 02:27:44] Optimize queries
 - [2025-08-28 02:27:44] Update documentation
+- [2026-07-29 02:27:44] Update README
