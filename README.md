@@ -185,3 +185,4 @@ Client runs on http://localhost:5173
 - [2025-11-22 02:27:44] Update documentation
 - [2026-03-01 02:27:44] Improve performance
 - [2025-08-17 02:27:44] Enhance security
+- [2026-07-29 02:27:44] Add unit tests
