@@ -115,3 +115,4 @@ Client runs on http://localhost:5173
 - [2025-09-17 02:27:44] Add validation
 - [2026-05-22 02:27:44] Enhance security
 - [2025-09-24 02:27:44] Clean up code
+- [2026-08-03 02:27:44] Improve accessibility
