@@ -101,3 +101,5 @@ Client runs on http://localhost:5173
 - **2026-07-20**: Add tests
 
 - **2026-07-31**: Update documentation
+
+- **2026-08-04**: Update documentation
