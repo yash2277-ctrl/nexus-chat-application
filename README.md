@@ -62,3 +62,8 @@ npm run dev
 
 Server runs on http://localhost:3001
 Client runs on http://localhost:5173
+
+
+## Recent Updates
+
+- **2026-08-05**: feat: Improve error handling
