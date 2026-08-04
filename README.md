@@ -71,3 +71,5 @@ Client runs on http://localhost:5173
 - **2026-08-05**: feat: Improve error handling
 
 - **2026-08-05**: feat: Improve error handling
+
+- **2026-08-05**: docs: Add contributing guidelines
